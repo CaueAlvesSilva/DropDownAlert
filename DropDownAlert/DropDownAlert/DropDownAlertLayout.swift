@@ -29,7 +29,7 @@ struct DropDownAlertViewDTO: Equatable {
     }
 }
 
-struct DefaultDropDownAlert: DropDownAlertLayout {
+struct DefaultDropDownAlertLayout: DropDownAlertLayout {
     private var message = ""
     private var success = false
     

@@ -6,10 +6,8 @@
 //  Copyright © 2017 Caue Alves. All rights reserved.
 //
 
+import Foundation
 import UIKit
-protocol Bla {
-    func teste()
-}
 
 class DropDownView: UIView {
     
